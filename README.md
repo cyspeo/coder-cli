@@ -9,3 +9,6 @@ A coder assitant
 * Very complet : https://tomastrajan.medium.com/total-guide-to-custom-angular-schematics-5c50cf90cdb4
 * https://admiquel.medium.com/angular-schematics-how-to-create-an-empty-folder-ecdf7c9e88ba
 * 
+
+# A savoir
+* debug=false : par defaut le système n'écrit pas le résultat car il est en debug. Il faut donc ajouter debug=false pour voir les fichiers générés.

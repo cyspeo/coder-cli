@@ -3,7 +3,8 @@
   "schematics": {
     "botcli": {
       "description": "A blank schematic.",
-      "factory": "./botcli/index#botcli"
+      "factory": "./botcli/index#botcli",
+      "schema":"./botcli/schema.json"
     }
   }
 }
